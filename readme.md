@@ -2,24 +2,33 @@
   <img src="/portadacb.svg">
 </div>
 
-👩‍💻 Desarrolladora Full Stack
-Soy Desarrolladora Full Stack con experiencia sólida en Java, con un enfoque creativo y orientado a la resolución de problemas en el desarrollo de software. Mi especialización se encuentra en Backend, especialmente en Java, pero mi formación Full Stack me permite aportar valor en todas las áreas del proyecto, garantizando una visión integral del desarrollo.
+---
+
+### 👩‍💻 Desarrolladora Full Stack
+
+Soy **Desarrolladora Full Stack** con experiencia sólida en **Java**, con un enfoque creativo y orientado a la resolución de problemas en el desarrollo de software. Mi especialización se encuentra en **Backend**, especialmente en **Java**, pero mi formación **Full Stack** me permite aportar valor en todas las áreas del proyecto, garantizando una visión integral del desarrollo.
 
 Me destaco por mi capacidad analítica, enfoque en la optimización y mi habilidad para trabajar en equipo. Siempre estoy comprometida con la mejora continua, buscando colaborar de manera efectiva con todas las partes del equipo para garantizar el éxito de cada proyecto.
 
-🔧 Habilidades y Competencias Técnicas
-Frontend:
-HTML, CSS, JavaScript, Bootstrap, React
-Backend:
-Java, Spring, Spring Security, JPA
-Bases de Datos:
-MySQL, modelado de datos, optimización de consultas
-Metodologías Ágiles:
-Scrum, trabajo colaborativo
-DevOps:
-Control de versiones con Git y GitHub
-💼 Experiencia y Logros
-Mi experiencia incluye la implementación de seguridad en aplicaciones web y la participación en todas las etapas del ciclo de vida del desarrollo de software, desde el diseño y la arquitectura hasta la implementación y el mantenimiento.
+### 🔧 **Habilidades y Competencias Técnicas**  
+- **Frontend**:  
+  - HTML, CSS, JavaScript, Bootstrap, React  
+- **Backend**:  
+  - Java, Spring, Spring Security, JPA  
+- **Bases de Datos**:  
+  - MySQL, modelado de datos, optimización de consultas  
+- **Metodologías Ágiles**:  
+  - Scrum, trabajo colaborativo  
+- **DevOps**:  
+  - Control de versiones con Git y GitHub  
+
+### 💼 **Experiencia y Logros**  
+Mi experiencia incluye la implementación de **seguridad en aplicaciones web** y la participación en todas las etapas del ciclo de vida del desarrollo de software, desde el diseño y la arquitectura hasta la implementación y el mantenimiento.
+
+---
+
+¡Gracias por visitar mi perfil! Estoy abierta a nuevos desafíos y oportunidades en el mundo del desarrollo de software.
+
 
 
 
