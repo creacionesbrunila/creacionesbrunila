@@ -2,19 +2,26 @@
   <img src="/portadacb.svg">
 </div>
 
-# 💫 About Me:
-Soy desarrolladora Full Stack con experiencia en Java, con un enfoque creativo y resolutivo en el desarrollo de software. Aunque mi especialización está en Backend, específicamente con Java, mi formación Full Stack me permite aportar valor en todas las áreas del proyecto. Me destaco por mi capacidad analítica y mi habilidad para trabajar en equipo, siempre enfocada en optimizar cada proyecto y colaborar de manera efectiva con distintas partes del equipo.
+👩‍💻 Desarrolladora Full Stack
+Soy Desarrolladora Full Stack con experiencia sólida en Java, con un enfoque creativo y orientado a la resolución de problemas en el desarrollo de software. Mi especialización se encuentra en Backend, especialmente en Java, pero mi formación Full Stack me permite aportar valor en todas las áreas del proyecto, garantizando una visión integral del desarrollo.
 
-Habilidades y competencias técnicas:
-✔️ Frontend: HTML, CSS, JavaScript, Bootstrap, React .
-✔️ Backend: Java, Spring, Spring Security, JPA .
-✔️ Bases de datos: MySQL, modelado de datos, optimización de consultas.
-✔️ Metodologías ágiles: Scrum, trabajo colaborativo .
-✔️ DevOps : Control de versiones con Git y Git Hub .
+Me destaco por mi capacidad analítica, enfoque en la optimización y mi habilidad para trabajar en equipo. Siempre estoy comprometida con la mejora continua, buscando colaborar de manera efectiva con todas las partes del equipo para garantizar el éxito de cada proyecto.
 
-Mi experiencia incluye implementación de seguridad en aplicaciones web, y participación en todas las etapas del ciclo de vida del desarrollo de software.
+🔧 Habilidades y Competencias Técnicas
+Frontend:
+HTML, CSS, JavaScript, Bootstrap, React
+Backend:
+Java, Spring, Spring Security, JPA
+Bases de Datos:
+MySQL, modelado de datos, optimización de consultas
+Metodologías Ágiles:
+Scrum, trabajo colaborativo
+DevOps:
+Control de versiones con Git y GitHub
+💼 Experiencia y Logros
+Mi experiencia incluye la implementación de seguridad en aplicaciones web y la participación en todas las etapas del ciclo de vida del desarrollo de software, desde el diseño y la arquitectura hasta la implementación y el mantenimiento.
 
-¡Gracias por visitar mi perfil!
+
 
 
 ## 🌐 Socials:
