@@ -11,8 +11,6 @@ Soy **Desarrolladora Java Backend** con **2 años de experiencia**, especializad
 
 Mi formación como **Full Stack** me ha proporcionado una comprensión integral del ciclo completo del desarrollo de software, aunque me especializo en el **Backend**. Me destaco por mi capacidad para resolver problemas complejos de manera eficaz, y por mi habilidad para colaborar en equipos ágiles utilizando metodologías como **Scrum**.
 
-### 💡 Formación y Habilidades
-A lo largo de mi carrera, he perfeccionado mis habilidades y he aprendido a utilizar diversas herramientas y tecnologías que me permiten ofrecer soluciones eficientes y escalables:
 
 #### Habilidades Técnicas:
 - **Backend**:
@@ -21,10 +19,12 @@ A lo largo de mi carrera, he perfeccionado mis habilidades y he aprendido a util
   - **Spring Security**
   - **Hibernate**
   - **MySQL**
+    
 - **Frontend**:
   - **React**
   - **JavaScript**
   - **HTML**, **CSS** (Grid, Flexbox), **Bootstrap**
+    
 - **Metodologías Ágiles**:
   - **Scrum**
   - **Azure DevOps**
@@ -32,16 +32,17 @@ A lo largo de mi carrera, he perfeccionado mis habilidades y he aprendido a util
   - **Docker**
   - **Git**, **GitLab**, **GitHub**
   - **Postman**
+    
 - **Diseño**:
   - **Figma**
 
 ### 🌍 Desarrollo Continuo
 Además de mis habilidades técnicas, actualmente estoy **ampliando mis conocimientos en inglés (nivel A1)** para mejorar la comunicación con equipos internacionales y expandir mi capacidad de colaboración en proyectos globales.
 
-Me apasiona el desarrollo de software y siempre busco aprender nuevas tecnologías y metodologías que me permitan seguir creciendo como profesional y contribuir a proyectos innovadores.
+
 
 ### 🚀 Objetivo
-Mi objetivo es seguir perfeccionando mis habilidades en **Backend**, mientras continúo aprendiendo sobre el desarrollo **Full Stack**, mejorando mi capacidad de entrega de productos de alta calidad, y colaborando en equipos que utilicen metodologías ágiles para alcanzar los mejores resultados.
+Mi objetivo es seguir perfeccionando mis habilidades en **Backend**, mejorando mi capacidad de entrega de productos de alta calidad, y colaborando en equipos que utilicen metodologías ágiles para alcanzar los mejores resultados.
 
 
 
