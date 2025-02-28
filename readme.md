@@ -4,30 +4,46 @@
 
 ---
 
+
 ### 👩‍💻 Desarrolladora Full Stack
 
-Soy **Desarrolladora Full Stack** con experiencia sólida en **Java**, con un enfoque creativo y orientado a la resolución de problemas en el desarrollo de software. Mi especialización se encuentra en **Backend**, especialmente en **Java**, pero mi formación **Full Stack** me permite aportar valor en todas las áreas del proyecto, garantizando una visión integral del desarrollo.
+Soy **Desarrolladora Java Backend** con **2 años de experiencia**, especializada en el diseño y desarrollo de **APIs REST** utilizando **Java (JDK 17)**, **Spring Boot**, **Spring Security**, y **Hibernate**. A lo largo de mi carrera, he trabajado con **MySQL**, **Postman** y **Docker**, implementando soluciones escalables y eficientes que permiten una gestión óptima de los recursos y un alto rendimiento de las aplicaciones.
 
-Me destaco por mi capacidad analítica, enfoque en la optimización y mi habilidad para trabajar en equipo. Siempre estoy comprometida con la mejora continua, buscando colaborar de manera efectiva con todas las partes del equipo para garantizar el éxito de cada proyecto.
+Mi formación como **Full Stack** me ha proporcionado una comprensión integral del ciclo completo del desarrollo de software, aunque me especializo en el **Backend**. Me destaco por mi capacidad para resolver problemas complejos de manera eficaz, y por mi habilidad para colaborar en equipos ágiles utilizando metodologías como **Scrum**.
 
-### 🔧 **Habilidades y Competencias Técnicas**  
-- **Frontend**:  
-  - HTML, CSS, JavaScript, Bootstrap, React  
-- **Backend**:  
-  - Java, Spring, Spring Security, JPA  
-- **Bases de Datos**:  
-  - MySQL, modelado de datos, optimización de consultas  
-- **Metodologías Ágiles**:  
-  - Scrum, trabajo colaborativo  
-- **DevOps**:  
-  - Control de versiones con Git y GitHub  
+### 💡 Formación y Habilidades
+A lo largo de mi carrera, he perfeccionado mis habilidades y he aprendido a utilizar diversas herramientas y tecnologías que me permiten ofrecer soluciones eficientes y escalables:
 
-### 💼 **Experiencia y Logros**  
-Mi experiencia incluye la implementación de **seguridad en aplicaciones web** y la participación en todas las etapas del ciclo de vida del desarrollo de software, desde el diseño y la arquitectura hasta la implementación y el mantenimiento.
+#### Habilidades Técnicas:
+- **Backend**:
+  - **Java** (JDK 17)
+  - **Spring Boot** 
+  - **Spring Security**
+  - **Hibernate**
+  - **MySQL**
+- **Frontend**:
+  - **React**
+  - **JavaScript**
+  - **HTML**, **CSS** (Grid, Flexbox), **Bootstrap**
+- **Metodologías Ágiles**:
+  - **Scrum**
+  - **Azure DevOps**
+- **Herramientas**:
+  - **Docker**
+  - **Git**, **GitLab**, **GitHub**
+  - **Postman**
+- **Diseño**:
+  - **Figma**
 
----
+### 🌍 Desarrollo Continuo
+Además de mis habilidades técnicas, actualmente estoy **ampliando mis conocimientos en inglés (nivel A1)** para mejorar la comunicación con equipos internacionales y expandir mi capacidad de colaboración en proyectos globales.
 
-¡Gracias por visitar mi perfil! Estoy abierta a nuevos desafíos y oportunidades en el mundo del desarrollo de software.
+Me apasiona el desarrollo de software y siempre busco aprender nuevas tecnologías y metodologías que me permitan seguir creciendo como profesional y contribuir a proyectos innovadores.
+
+### 🚀 Objetivo
+Mi objetivo es seguir perfeccionando mis habilidades en **Backend**, mientras continúo aprendiendo sobre el desarrollo **Full Stack**, mejorando mi capacidad de entrega de productos de alta calidad, y colaborando en equipos que utilicen metodologías ágiles para alcanzar los mejores resultados.
+
+
 
 
 
