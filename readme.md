@@ -5,14 +5,14 @@
 ---
 
 
-### 👩‍💻 Desarrolladora Backend
+
 
 Desarrolladora Backend Java Jr, especializada en el diseño y desarrollo de APIs REST utilizando Java
 (JDK 17), Spring Boot, Spring Security y Hibernate. Uso de MySQL y Docker para implementar soluciones escalables, y Postman para pruebas de APIs.
 
 Mi formación Full Stack me permite comprender el ciclo completo del desarrollo de software, aunque me especializo en el Backend. Me caracterizo por buscar soluciones prácticas y creativas a los desafíos que surgen, y disfruto mucho del trabajo en equipo. Tengo buenas habilidades interpersonales, lo que me permite comunicarme con claridad y adaptarme fácilmente a equipos ágiles como Scrum.
 
- 🌍 Desarrollo Continuo
+
 Además de mis habilidades técnicas, actualmente estoy **ampliando mis conocimientos en inglés (nivel A1)** para mejorar la comunicación con equipos internacionales y expandir mi capacidad de colaboración en proyectos globales.
 Mi objetivo es seguir perfeccionando mis habilidades en **Backend**, mejorando mi capacidad de entrega de productos de alta calidad, y colaborando en equipos que utilicen metodologías ágiles para alcanzar los mejores resultados.
 
