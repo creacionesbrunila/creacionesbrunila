@@ -5,48 +5,16 @@
 ---
 
 
-### 👩‍💻 Desarrolladora Full Stack
+### 👩‍💻 Desarrolladora Backend
 
-Soy **Desarrolladora Java Backend** con **2 años de experiencia**, especializada en el diseño y desarrollo de **APIs REST** utilizando **Java (JDK 17)**, **Spring Boot**, **Spring Security**, y **Hibernate**. A lo largo de mi carrera, he trabajado con **MySQL**, **Postman** y **Docker**, implementando soluciones escalables y eficientes que permiten una gestión óptima de los recursos y un alto rendimiento de las aplicaciones.
+Desarrolladora Backend Java Jr, especializada en el diseño y desarrollo de APIs REST utilizando Java
+(JDK 17), Spring Boot, Spring Security y Hibernate. Uso de MySQL y Docker para implementar soluciones escalables, y Postman para pruebas de APIs.
 
-Mi formación como **Full Stack** me ha proporcionado una comprensión integral del ciclo completo del desarrollo de software, aunque me especializo en el **Backend**. Me destaco por mi capacidad para resolver problemas complejos de manera eficaz, y por mi habilidad para colaborar en equipos ágiles utilizando metodologías como **Scrum**.
+Mi formación Full Stack me permite comprender el ciclo completo del desarrollo de software, aunque me especializo en el Backend. Me caracterizo por buscar soluciones prácticas y creativas a los desafíos que surgen, y disfruto mucho del trabajo en equipo. Tengo buenas habilidades interpersonales, lo que me permite comunicarme con claridad y adaptarme fácilmente a equipos ágiles como Scrum.
 
-
-#### Habilidades Técnicas:
-- **Backend**:
-  - **Java** (JDK 17)
-  - **Spring Boot** 
-  - **Spring Security**
-  - **Hibernate**
-  - **MySQL**
-    
-- **Frontend**:
-  - **React**
-  - **JavaScript**
-  - **HTML**, **CSS** (Grid, Flexbox), **Bootstrap**
-    
-- **Metodologías Ágiles**:
-  - **Scrum**
-  - **Azure DevOps**
-- **Herramientas**:
-  - **Docker**
-  - **Git**, **GitLab**, **GitHub**
-  - **Postman**
-    
-- **Diseño**:
-  - **Figma**
-
-### 🌍 Desarrollo Continuo
+ 🌍 Desarrollo Continuo
 Además de mis habilidades técnicas, actualmente estoy **ampliando mis conocimientos en inglés (nivel A1)** para mejorar la comunicación con equipos internacionales y expandir mi capacidad de colaboración en proyectos globales.
-
-
-
-### 🚀 Objetivo
 Mi objetivo es seguir perfeccionando mis habilidades en **Backend**, mejorando mi capacidad de entrega de productos de alta calidad, y colaborando en equipos que utilicen metodologías ágiles para alcanzar los mejores resultados.
-
-
-
-
 
 
 ## 🌐 Social Media:
