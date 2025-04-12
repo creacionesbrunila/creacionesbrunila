@@ -7,14 +7,13 @@
 
 
 
-Desarrolladora Backend Java Jr, especializada en el diseño y desarrollo de APIs REST utilizando Java
-(JDK 17), Spring Boot, Spring Security y Hibernate. Uso de MySQL y Docker para implementar soluciones escalables, y Postman para pruebas de APIs.
+Soy Desarrolladora Backend Java con experiencia en el desarrollo de APIs REST utilizando Java (JDK 17), Spring Boot, Spring Security e Hibernate. Trabajo con bases de datos MySQL y herramientas como Docker, Postman y Git.
 
-Mi formación Full Stack me permite comprender el ciclo completo del desarrollo de software, aunque me especializo en el Backend. Me caracterizo por buscar soluciones prácticas y creativas a los desafíos que surgen, y disfruto mucho del trabajo en equipo. Tengo buenas habilidades interpersonales, lo que me permite comunicarme con claridad y adaptarme fácilmente a equipos ágiles como Scrum.
+Me enfoco en crear soluciones creativas, siguiendo buenas prácticas de desarrollo y aplicando principios de programación orientada a objetos. Diseño arquitecturas escalables y seguras que responden a los requerimientos dinámicos de las aplicaciones. Mi formación Full Stack me permite comprender el ciclo completo del desarrollo de software, aunque me especializo en el Backend.
 
+Me destaco por mi proactividad, capacidad para tomar decisiones técnicas y por tener excelentes habilidades para la resolución de problemas. Tengo experiencia guiando y acompañando a otros miembros del equipo, y disfruto del trabajo colaborativo en entornos ágiles como Scrum.
 
-Además de mis habilidades técnicas, actualmente estoy **ampliando mis conocimientos en inglés (nivel A1)** para mejorar la comunicación con equipos internacionales y expandir mi capacidad de colaboración en proyectos globales.
-Mi objetivo es seguir perfeccionando mis habilidades en **Backend**, mejorando mi capacidad de entrega de productos de alta calidad, y colaborando en equipos que utilicen metodologías ágiles para alcanzar los mejores resultados.
+Actualmente estoy mejorando mi nivel de inglés (A1) para poder comunicarme mejor con equipos internacionales y seguir creciendo profesionalmente.
 
 
 ## 🌐 Social Media:
