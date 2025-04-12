@@ -11,9 +11,7 @@ Soy Desarrolladora Backend Java con experiencia en el desarrollo de APIs REST ut
 
 Me enfoco en crear soluciones creativas, siguiendo buenas prácticas de desarrollo y aplicando principios de programación orientada a objetos. Diseño arquitecturas escalables y seguras que responden a los requerimientos dinámicos de las aplicaciones. Mi formación Full Stack me permite comprender el ciclo completo del desarrollo de software, aunque me especializo en el Backend.
 
-Me destaco por mi proactividad, capacidad para tomar decisiones técnicas y por tener excelentes habilidades para la resolución de problemas. Tengo experiencia guiando y acompañando a otros miembros del equipo, y disfruto del trabajo colaborativo en entornos ágiles como Scrum.
-
-Actualmente estoy mejorando mi nivel de inglés (A1) para poder comunicarme mejor con equipos internacionales y seguir creciendo profesionalmente.
+Me destaco por mi proactividad y por tener una excelente habilidad para la resolución de problemas. Tengo experiencia guiando y acompañando a otros miembros del equipo, y disfruto del trabajo colaborativo en entornos ágiles como Scrum.
 
 
 ## 🌐 Social Media:
