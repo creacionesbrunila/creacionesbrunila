@@ -1,6 +1,7 @@
 <p align="center">
-  <h1 style="font-size: 3rem; font-weight: bold; color: #F75324; letter-spacing: 2px;">DESARROLLADORA BACKEND JAVA</h1>
+  <h1 style="font-size: 3rem; font-weight: bold; color: #F75324; letter-spacing: 2px; text-align: center;">DESARROLLADORA BACKEND JAVA</h1>
 </p>
+
 
 
 
