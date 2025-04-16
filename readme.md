@@ -11,15 +11,15 @@
   </a>
 </p>
 
-<p align="center" style="font-size: 18px; max-width: 600px;">
+<p style="font-size: 18px; max-width: 600px;">
   Soy Desarrolladora Backend Java con experiencia en el desarrollo de APIs REST utilizando Java (JDK 17), Spring Boot, Spring Security e Hibernate. Trabajo con bases de datos MySQL y herramientas como Docker, Postman y Git.
 </p>
 
-<p align="center" style="font-size: 18px; max-width: 600px;">
+<p  style="font-size: 18px; max-width: 600px;">
   Me enfoco en crear soluciones creativas, siguiendo buenas prácticas de desarrollo y aplicando principios de programación orientada a objetos. Diseño arquitecturas escalables y seguras que responden a los requerimientos dinámicos de las aplicaciones. Mi formación Full Stack me permite comprender el ciclo completo del desarrollo de software, aunque me especializo en el Backend.
 </p>
 
-<p align="center" style="font-size: 18px; max-width: 600px;">
+<p  style="font-size: 18px; max-width: 600px;">
   Me destaco por mi proactividad y por tener una excelente habilidad para la resolución de problemas. Tengo experiencia guiando y acompañando a otros miembros del equipo, y disfruto del trabajo colaborativo en entornos ágiles como Scrum.
 </p>
 
