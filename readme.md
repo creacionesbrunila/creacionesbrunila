@@ -1,10 +1,5 @@
-<div>
-  <img src="/portadacb.svg">
-</div>
 
----
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22My+name+is+Sofia+%F0%9F%91%8B%22);" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75324&width=550&height=80&separator=%3C&lines=System.out.println(%22My+name+is+Sofia+%F0%9F%91%8B%22);" alt="Typing SVG" /></a>
 
 
 Soy Desarrolladora Backend Java con experiencia en el desarrollo de APIs REST utilizando Java (JDK 17), Spring Boot, Spring Security e Hibernate. Trabajo con bases de datos MySQL y herramientas como Docker, Postman y Git.
