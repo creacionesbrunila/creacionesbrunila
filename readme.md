@@ -1,4 +1,4 @@
-<hr />
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #FF6347, #FF4500, #F75324);"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -6,15 +6,15 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px; max-width: 600px;">
   Soy Desarrolladora Backend Java con experiencia en el desarrollo de APIs REST utilizando Java (JDK 17), Spring Boot, Spring Security e Hibernate. Trabajo con bases de datos MySQL y herramientas como Docker, Postman y Git.
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px; max-width: 600px;">
   Me enfoco en crear soluciones creativas, siguiendo buenas prácticas de desarrollo y aplicando principios de programación orientada a objetos. Diseño arquitecturas escalables y seguras que responden a los requerimientos dinámicos de las aplicaciones. Mi formación Full Stack me permite comprender el ciclo completo del desarrollo de software, aunque me especializo en el Backend.
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px; max-width: 600px;">
   Me destaco por mi proactividad y por tener una excelente habilidad para la resolución de problemas. Tengo experiencia guiando y acompañando a otros miembros del equipo, y disfruto del trabajo colaborativo en entornos ágiles como Scrum.
 </p>
 
@@ -43,7 +43,18 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the
+  <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=sofia1988&icon=0&color=0" alt="Visit Count" />
+  </a>
+</p>
+
 
 
 
