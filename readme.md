@@ -1,9 +1,9 @@
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75324&width=550&height=80&separator=%3C&lines=System.out.println(%22My+name+is+Sofia+%F0%9F%91%8B%22);" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75324&background=000000FF&width=550&height=80&separator=%3C&lines=System.out.println(%22My+name+is+Sofia+%F0%9F%91%8B%22);" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 
