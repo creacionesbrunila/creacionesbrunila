@@ -2,7 +2,7 @@
   <h1 style="font-size: 3rem; font-weight: bold; color: #F75324; letter-spacing: 2px;">DESARROLLADORA BACKEND JAVA</h1>
 </p>
 
-<hr style="border: 0; height: 2px; background: linear-gradient(to right, #FF6347, #FF4500, #F75324);"/>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
